@@ -1,0 +1,381 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Zdrowie kobiety forum - Forum medyczne, lekarskie, pytania do lekarzy, porady medyczne online, zapytaj eksperta</title>
+<meta name="Author" content="iLekarze" />
+<meta name="copyright" content="iLekarze" />
+<meta name="Description" content="Zdrowie kobiety - Forum medyczne lekarskie, pytania do lekarzy, porady medyczne online, zapytaj eksperta" />
+<meta name="Keywords" content="Zdrowie kobiety  - Forum medyczne lekarskie, pytania do lekarzy, porady medyczne online, zapytaj eksperta" />
+<link rel="icon" href="http://www.ilekarze.pl/ilekarze.ico" type="image/x-icon" />
+<meta property="og:image" content="http://www.ilekarze.pl/img/ilekarze_fb.jpg"/> 
+<meta name="robots" content="index, follow" />
+<link rel="stylesheet" href="http://www.ilekarze.pl/style.css" />
+<link href="http://www.ilekarze.pl/css/main.css" rel="stylesheet" type="text/css" />
+<script src="http://www.ilekarze.pl/js/AC_RunActiveContent.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.ilekarze.pl/js/custom-form-elements.js"></script>
+<script type="text/javascript" src="http://www.ilekarze.pl/js/jquery-1.2.6.js"></script>
+<script type="text/javascript" src="http://www.ilekarze.pl/js/chili-1.7.pack.js"></script>
+<script type="text/javascript" src="http://www.ilekarze.pl/js/jquery_002.js"></script><!-- ticker -->
+<script src="http://www.ilekarze.pl/js/jquery.tabs.pack.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://www.ilekarze.pl/css/jquery.tabs.css" type="text/css" media="print, projection, screen" />
+<!-- TradeDoubler site verification 1920135 -->
+<!-- TradeDoubler site verification 1705167 -->
+<script type="text/javascript">
+$(document).ready(
+function(){
+	    $("#show_form_q").click(function () {
+      $("#formularz_pytania").toggle("slow");
+    });  
+    $("#leki_rozwin").click(function () {
+      $("#leki_menucd").toggle("slow");
+    });  
+    $("#dodaj_kom_leki").click(function () {
+      $("#dodaj_komentarz").toggle("slow");
+    });  
+    $("#btt_dodaj_firme").click(function () {
+      $("#reg_tabela_firma").toggle("slow");
+    });  
+	
+$("#foot_a_e").click(
+function(){
+$("#foot_e").toggle("normal");
+});
+});
+
+$(document).ready(
+function(){
+$("#foot_a_e1").click(
+function(){
+$("#foot_e").toggle("normal");
+});
+});
+
+$(document).ready(
+function(){$("#a_zaawansowane").click(
+function(){
+$("#d_zaawansowane").toggle("normal");
+}).toggle(function() { $("#ilinkr"); }, function() { $("#ilinkr"); });
+}
+);
+
+
+$(function() {
+		$('#container-1').tabs();
+		$('#container-2').tabs();
+});
+
+</script>
+
+	<!--[if lt IE 7]>
+
+	<script defer type="text/javascript" src="js/pngfix.js"></script>
+
+	<![endif]-->
+<script type="text/javascript" src="http://www.ilekarze.pl/js/jquery.pngFix.js"></script> 
+<script type="text/javascript"> 
+    $(document).ready(function(){ 
+        $(document).pngFix(); 
+    }); 
+</script> 
+		<script type="text/javascript" src="http://www.ilekarze.pl/js/ajax.js"></script>
+	
+<style type="text/css" media="screen">
+.slide-out-div {width: 200px;}
+</style>
+<script src="http://www.ilekarze.pl/js/jquery.tabSlideOut.v1.3.js"></script>
+<script>
+		$(function(){
+				$('.slide-out-div').tabSlideOut({
+        		tabHandle: '.handle',                              //class of the element that will be your tab
+            pathToTabImage: 'http://www.ilekarze.pl/images/contact_tab.gif',          //path to the image for the tab (optionaly can be set using css)
+            imageHeight: '122px',                               //height of tab image
+            imageWidth: '40px',                               //width of tab image    
+            tabLocation: 'right',                               //side of screen where tab lives, top, right, bottom, or left
+            speed: 300,                                        //speed of animation
+            action: 'click',                                   //options: 'click' or 'hover', action to trigger animation
+            topPos: '222px',                                   //position from the top
+            fixedPosition: true                               //options: true makes it stick(fixed position) on scroll
+				});
+		});
+</script>
+<meta name="google-site-verification" content="j3tA5aO8Cm4R49OUieazr-aMuKemMU8yrJ6zWi5ALLo" />
+<meta name="google-site-verification" content="Nanay_r-dTSAlwetUKisSi2fhwalZ2dkITHXo9VhYVk" />
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'pl'}
+</script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+</head><body>
+<div id="wrap">
+<div id="top_pasek"><div id="top_pasek_tekst"><h1>Zdrowie kobiety forum - Forum medyczne</h1></div><div id="datownik">Dziœ jest:<strong>Wtorek</strong>, 4 kwietnia  2023, <strong>Imieniny:</strong> Izydora, Antoniego
+</div></div><div id="top">
+<div id="logo"><a href="http://www.ilekarze.pl/"><img src="/img/ilekarze.gif" alt="iLekarze - portal medyczny" /></a></div> 
+<div id="menu_top">
+<div id="menu_t">
+Nie masz jeszcze konta w iLekarze? <a href="http://www.ilekarze.pl/rejestracja.php" rel="nofollow">Zarejestruj siê</a> <a href="http://www.ilekarze.pl/logowanie.php" id="foot_a_e1" rel="nofollow">Zaloguj siê</a>
+</div>
+    <div style=" float:right; margin:15px 0 0 0;"><iframe src="//www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/pages/Portal-iLekarzepl/10150129645885128%2F&amp;width=200&amp;height=62&amp;show_faces=false&amp;colorscheme=light&amp;stream=false&amp;show_border=false&amp;header=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:62px;" allowTransparency="true"></iframe>
+    </div>
+</div>
+
+<div id="menu_main">
+<div id="container-2">
+
+<ul id="menu_1poz">
+<li><p><a href="#menu-1">Zdrowie i uroda</a></p></li>
+<li><p><a href="#menu-2">Informacje praktyczne</a></p></li>
+<li><p><a href="#menu-3">Portal iLekarze.pl</a></p></li>
+<li><p><a href="#menu-4">Forum</a></p></li>
+</ul>
+
+<div id="menu-1">
+<ul id="menu_2poz">
+<li><em>»</em><a href="http://www.instytucje-i-placowki-medyczne.ilekarze.pl/n/news.html">Placówki medyczne</a></li>
+<li><em>»</em><a href="http://www.diety-odchudzanie-zdrowa-zywnosc.ilekarze.pl/n/news.html">Diety</a></li>
+<li><em>»</em><a href="http://www.kosmetyki-i-uroda.ilekarze.pl/n/news.html">Kosmetyki</a></li>
+<li><em>»</em><a href="http://www.medycyna-konwencjonalna.ilekarze.pl/n/news.html">Medycyna</a></li>
+<li><em>»</em><a href="http://www.seksuologia-ciaza-rodzicielstwo.ilekarze.pl/n/news.html">Seks, Ci¹¿a</a></li>
+<li><em>»</em><a href="http://www.choroby-dolegliwosci-zaburzenia.ilekarze.pl/n/news.html">Choroby i zaburzenia</a></li>
+<li><em>»</em><a href="http://www.edukacja-informacja-wydarzenia.ilekarze.pl/n/news.html">Edukacja</a></li>
+<li><em>»</em><a href="http://www.dermatologia.ilekarze.pl/n/news.html">Dermatologia</a></li>
+</ul>
+</div>
+
+<div id="menu-2">
+<ul id="menu_2poz">
+<li><em>»</em><a href="http://www.ilekarze.pl/info/bmi.html">Kalkulator BMI</a></li>
+<li><em>»</em><a href="http://www.ogloszenia.ilekarze.pl/">Og³oszenia medyczne</a></li>
+<li><em>»</em><a href="http://www.ilekarze.pl/leki/A/">Encyklopedia leków</a></li>
+<li><em>»</em><a href="http://www.apteki-sklepy-i-hurtownie-medyczne.ilekarze.pl/">Placówki zdrowia i salony urody</a></li>
+<li><em>»</em><a href="http://www.wydarzenia.ilekarze.pl/n/news.html">Wydarzenia</a></li>
+<li><em>»</em><a href="http://www.ilekarze.pl/porady/">Porady Eksperta</a></li>
+</ul> 
+</div>
+
+<div id="menu-3">
+<ul id="menu_2poz">
+<li><em>»</em><a href="http://www.ilekarze.pl/info/dla_prasy.html">Dla prasy i mediów</a></li>
+<li><em>»</em><a href="http://www.ilekarze.pl/info/wspolpraca.html">Wspó³praca</a></li>
+<li><em>»</em><a href="http://www.ilekarze.pl/info/zostan_redaktorem.html">Zostañ redaktorem</a></li>
+<li><em>»</em><a href="http://www.ilekarze.pl/info/reklama.html">Reklama w serwisie</a></li>
+<li><em>»</em><a href="http://www.ilekarze.pl/info/komunikaty.html">Komunikaty serwisu</a></li>
+
+</ul>
+</div>
+
+<div id="menu-4">
+<ul id="menu_2poz">
+<li><em>»</em><a href="http://www.ilekarze.pl/forum/">Forum medyczne iLekarze.pl</a></li>
+<li><em>»</em><a href="http://www.ilekarze.pl/rejestracja.php">Zarejestruj siê</a></li>
+<li><em>»</em><a href="http://www.ilekarze.pl/logowanie.php">Zaloguj siê</a></li>
+</ul>
+</div>
+
+</div>
+</div>
+</div><div id="main">
+<div style="height:96px; background:url(/img/bg_ogloszenia_pasek.jpg) repeat-x; width:100%;">
+<div style="float:left; width:200px;"><img src="/img/twik.gif"></div>
+<div style="float:left; width:750px; padding:10px 0;">
+<h1 style="font-size:13px; color:#FFFFFF;">Witaj na - forum medyczne portalu iLekarze.pl.</h1>
+<p style="color:#d5eff8;">
+Mo¿esz tu poszukaæ porady lekarza, m.in. laryngologa, ginegkologa, stomatologa, neurologa, b¹dŸ innego specjalisty, porozmawiaæ o chorobach, lekach, zdrowiu, znaleŸdŸ odpowiedni¹ dietê.
+<strong>Zapraszamy do dyskusji na tematy zdrowia i urody na forum medycznym iLekarze.pl.</strong>
+</p>
+</div>
+</div>
+<div id="kolumna_1">
+<div class="box1 menu_ogloszenia"><div class="box_head"><div><h3 class="icon2">Forum medyczne</h3></div></div><div class="box_menu_left_ogloszenia">
+<ul style="background:#2cbdff;"><li><p  style="padding:5px 0; margin:0 0 0 10px; color:#fff;"><strong>Fora tematyczne</strong></p><ul><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Zdrowie-kobiety/" title="Zdrowie kobiety Forum" >Zdrowie kobiety</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Zdrowie-mezczyzny/" title="Zdrowie mê¿czyzny Forum" >Zdrowie mê¿czyzny</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Zdrowie-dziecka/" title="Zdrowie dziecka Forum" >Zdrowie dziecka</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Diety-i-odchudzanie/" title="Diety, odchudzanie, od¿ywianie Forum" >Diety, odchudzanie, od¿ywianie</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Leki/" title="Leki, preparaty, suplementy Forum" >Leki, preparaty, suplementy</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Medycyna-leczenie-opieka/" title="Medycyna, leczenie, opieka Forum" >Medycyna, leczenie, opieka</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Uroda/" title="Uroda, kosmetyki Forum" >Uroda, kosmetyki</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Prawo-medyczne/" title="Prawo medyczne Forum" >Prawo medyczne</a></li></ul></li><li><p  style="padding:5px 0; margin:0 0 0 10px; color:#fff;"><strong>Lekarze i specjaliœci</strong></p><ul><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Lekarz-Rodzinny/" title="Lekarz Rodzinny Forum" >Lekarz Rodzinny</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Alergolog/" title="Alergolog Forum" >Alergolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Androlog/" title="Androlog Forum" >Androlog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Anestozjolog/" title="Anestozjolog Forum" >Anestozjolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Chirurg/" title="Chirurg Forum" >Chirurg</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Internista/" title="Internista Forum" >Internista</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Dermatolog/" title="Dermatolog Forum" >Dermatolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Diabetolog/" title="Diabetolog Forum" >Diabetolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Dietetyk/" title="Dietetyk Forum" >Dietetyk</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Endokrynolog/" title="Endokrynolog Forum" >Endokrynolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Fizjoterapeuta/" title="Fizjoterapeuta  Forum" >Fizjoterapeuta </a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Gastrolog/" title="Gastrolog Forum" >Gastrolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Genetyk/" title="Genetyk Forum" >Genetyk</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Geriatra/" title="Geriatra Forum" >Geriatra</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Ginekolog/" title="Ginekolog Forum" >Ginekolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Hematolog/" title="Hematolog Forum" >Hematolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Histopatolog/" title="Histopatolog Forum" >Histopatolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Homeopata/" title="Homeopata Forum" >Homeopata</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Kardiolog/" title="Kardiolog Forum" >Kardiolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Laryngolog/" title="Laryngolog Forum" >Laryngolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Logopeda/" title="Logopeda Forum" >Logopeda</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Nefrolog/" title="Nefrolog Forum" >Nefrolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Neurolog/" title="Neurolog Forum" >Neurolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Onkolog/" title="Onkolog Forum" >Onkolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Ortodonta/" title="Ortodonta Forum" >Ortodonta</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Ortopeda/" title="Ortopeda Forum" >Ortopeda</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Patomorfolog/" title="Patomorfolog Forum" >Patomorfolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Pediatra/" title="Padiatra Forum" >Padiatra</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Poloznik/" title="Po³o¿nik Forum" >Po³o¿nik</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Proktolog/" title="Proktolog Forum" >Proktolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Psychiatra/" title="Psychiatra Forum" >Psychiatra</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Psycholog/" title="Psycholog Forum" >Psycholog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Pulmonolog/" title="Pulmonolog Forum" >Pulmonolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Radiolog/" title="Radiolog Forum" >Radiolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Rehabilitant/" title="Rehabilitant Forum" >Rehabilitant</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Reumatolog/" title="Reumatolog Forum" >Reumatolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Seksuolog/" title="Seksuolog Forum" >Seksuolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Stomatolog/" title="Stomatolog Forum" >Stomatolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Urolog/" title="Urolog Forum" >Urolog</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Okulista/" title="Okulista Forum" >Okulista</a></li></ul></li><li><p  style="padding:5px 0; margin:0 0 0 10px; color:#fff;"><strong>Medyczne ró¿noœci</strong></p><ul><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Targi/" title="Targi Forum" >Targi</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Wyklady-prelekcje-warsztaty/" title="Wyk³ady, prelekcje, warsztaty Forum" >Wyk³ady, prelekcje, warsztaty</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Ogloszenia-reklamy-oferty/" title="Og³oszenia, reklamy, oferty Forum" >Og³oszenia, reklamy, oferty</a></li></ul></li><li><p  style="padding:5px 0; margin:0 0 0 10px; color:#fff;"><strong>iLekarze.pl</strong></p><ul><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Portal-iLekarze/" title="Portal iLekarze.pl Forum" >Portal iLekarze.pl</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Forum-iLekarze/" title="Forum iLekarze.pl Forum" >Forum iLekarze.pl</a></li><li><a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/shoutbox/" title="Shoutbox Forum" >Shoutbox</a></li></ul></li></ul></div>
+</div><div class="baner1 banner_polecamy"><div class="baner_head"><div></div></div><div class="baner_tresc">
+
+
+<p>
+	<a href="http://www.24finance.pl" target="_blank"><img src="/img/polecamy/24finance.jpg" alt="Kredyty i po¿yczki ca³¹ dobê!" width="170" height="140" /></a>
+</p>
+<p>
+	<a href="http://www.7travel.pl"><img src="/img/polecamy/7travel.jpg" alt="Portal turystyczny - 7travel - hotele, noclegi" width="170" height="75" /></a>
+</p>
+
+</div><div class="baner_foot1"><div></div></div></div></div>
+<div id="kolumna_2">
+<div id="h1_miasto" style="float:left;padding:10px 0;width:100%;" ><h1><u>Zdrowie kobiety forum</u></h1></div>
+
+<div style="margin:10px 0 20px 0; float:left; width:100%; text-align:left;">
+	<script type="text/javascript"><!--
+    google_ad_client = "ca-pub-7726363216332302";
+    /* 750x200 ilekarze top */
+    google_ad_slot = "1149729887";
+    google_ad_width = 750;
+    google_ad_height = 200;
+    //-->
+    </script>
+    <script type="text/javascript"
+    src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+</div>
+<div id="path">Znajdujesz siê w: <a href="http://www.ilekarze.pl">iLekarze.pl</a> » <a href="http://www.ilekarze.pl/forum/">Forum</a> » Fora tematyczne » <strong>Zdrowie kobiety forum</strong></div>
+<div id="forum">
+<div class="h1_forum"><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/forum_nowy_temat.html" class="a_zaproponuj" rel="nofollow"><strong>» Nowy temat</strong></a><h1>Fora tematyczne » Zdrowie kobiety (2412)</h1></div><table class="forum_table_lista_postow">
+<tr><td colspan="4">
+Na poni¿szym forum uzyskasz informacje i porady forumowiczów na temat <strong>zdrowia kobiety</strong>. Infromacje obejmuj¹ce zagadnienia takie jak: dojrzewanie, menstruacja, ci¹¿a, piersi, antykoncepcja, menopauza, planowanie rodziny czy poronienie. Zadawaj pytania, szukaj odpowiedzi!<div style="float:left; clear:both; width:100%; margin:0 0 5px 0;"><div id="taily">
+
+</div>
+</div></td></tr>
+<tr><td colspan="4">
+<div class="paginacja_out"><div class="paginacja"><div class="pagination"><span class="disabled">&#171; <strong>Poprzednie </strong></span><span class="current">1</span><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/2/">2</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/3/">3</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/4/">4</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/5/">5</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/6/">6</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/7/">7</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/8/">8</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/9/">9</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/10/">10</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/11/">11</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/12/">12</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/13/">13</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/14/">14</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/15/">15</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/16/">16</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/17/">17</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/18/">18</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/19/">19</a>...<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/40/">40</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/41/">41</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/2/" class="next"><strong> Nastêpne</strong> &#187;</a></div>
+</div></div></td></tr>
+<tr><td colspan="4">
+<div class="forum_post_head" style="font-weight:normal; margin-top:10px; border:0; margin-right:0; ">
+<div class="forum_post_left" style="float:left;font-weight:normal; width:460px; text-align:center;">Temat</div>
+<div class="forum_post_right" style="float:left; text-align:center; font-weight:normal;width:60px; text-align:center;">Odp.</div>
+<div class="forum_post_right" style="float:left; text-align:center; font-weight:normal;width:40px; text-align:center;">Za³o¿y³</div>
+<div class="forum_post_right" style="float:left; text-align:center; font-weight:normal;width:120px; text-align:center;">Ostatni post</div>
+</div>
+</td></tr>
+<tr><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/oszust-maluta-zabija-wilhelmaratunku-pomocy--516-809-201.html" class="a_text"><strong>OSZUST MALUTA ZABIJA WILHELMA.RATUNKU POMOCY = 516 809 201</strong></a> <br />MALUTA WILHELMA ZABI£A  I ARTYKU£ 35 USTAWY 18.V.21 17:00
+MALUTA ŒMIERTELNY...</td>	<td class="td_c td_b">531</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Zamordowany Wilhelm PRZEZ Zabójcê Maluta/">Zamordowany Wilhelm PRZEZ Zabójcê Maluta</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Zamordowany Wilhelm PRZEZ Zabójcê Maluta/">Zamordowany Wilhelm PRZEZ Zabójcê Maluta</a><br />2023-04-04 09:26</td></tr><tr class="tr_bg1"><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/mleko-modyfikowane-1666903947.html" class="a_text"><strong>mleko modyfikowane</strong></a> <br />gdzie kupujecie mleko modyfikowane? Planujê kupowaæ Bebilon, szukam gdzie...</td>	<td class="td_c td_b">0</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/mare1k/">mare1k</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/mare1k/">mare1k</a><br />2022-10-27 22:52</td></tr><tr><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/duzo-woskowiny-w-uszach.html" class="a_text"><strong>du¿o woskowiny w uszach</strong></a> <br />jak sobie poradziæ z gromadzeniem siê du¿ej iloœci woskowiny?</td>	<td class="td_c td_b">1</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/mare1k/">mare1k</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/liskaasa/">liskaasa</a><br />2022-10-26 23:17</td></tr><tr class="tr_bg1"><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/objawy-menopauzy.html" class="a_text"><strong>objawy menopauzy</strong></a> <br />Czy zmiany nastroju, brak okresu oraz spadek libido mog¹ wskazywaæ na...</td>	<td class="td_c td_b">3</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/liskaasa/">liskaasa</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/liskaasa/">liskaasa</a><br />2022-10-20 00:02</td></tr><tr><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/nietrzymanie-moczu-1621774583.html" class="a_text"><strong>nietrzymanie moczu</strong></a> <br />Czy ktoœ tutaj mierzy³ siê z tym problemem? jak sobie z tym radzicei? Gdzie...</td>	<td class="td_c td_b">2</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/liskaasa/">liskaasa</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/liskaasa/">liskaasa</a><br />2022-10-19 12:48</td></tr><tr class="tr_bg1"><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/jak-zapobiec-zatykaniu-uszu.html" class="a_text"><strong>jak zapobiec zatykaniu uszu?</strong></a> <br />Jak skutecznie zapobiec zatykaniu uszu? Macie na to jakieœ swoje patenty?</td>	<td class="td_c td_b">1</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/mare1k/">mare1k</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/liskaasa/">liskaasa</a><br />2022-09-19 22:23</td></tr><tr><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/tanie-leki-dla-seniora.html" class="a_text"><strong>tanie leki dla seniora</strong></a> <br />DOZ ma fajn¹ akcjê dla seniorów, w konkretnych godzinach mog¹ oni kupiæ...</td>	<td class="td_c td_b">0</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/mare1k/">mare1k</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/mare1k/">mare1k</a><br />2022-07-24 07:30</td></tr><tr class="tr_bg1"><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/wrzodziejace-zapalenie-jelita-grubego-1653942147.html" class="a_text"><strong>wrzodziej¹ce zapalenie jelita grubego</strong></a> <br />u mojego syna zdiagnozowano tê chorobê, strasznie zmizernia³, nie chce...</td>	<td class="td_c td_b">2</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/liskaasa/">liskaasa</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/liskaasa/">liskaasa</a><br />2022-06-30 21:08</td></tr><tr><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/dobre-witaminy-dla-kobiet.html" class="a_text"><strong>dobre witaminy dla kobiet</strong></a> <br />Znacie jakieœ dobre witaminy dla kobiet? Najbardziej mi zale¿y ¿eby...</td>	<td class="td_c td_b">1</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/majaka/">majaka</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Olesia Bilovol/">Olesia Bilovol</a><br />2022-05-03 12:30</td></tr><tr class="tr_bg1"><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/swedzace-oko.html" class="a_text"><strong>swêdz¹ce oko</strong></a> <br />wydaje mi siê, ¿e robi mi siê jeczmieñ, powieka mnie swêdzi, czy mogê juz...</td>	<td class="td_c td_b">1</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/mare1k/">mare1k</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/liskaasa/">liskaasa</a><br />2022-04-12 13:27</td></tr><tr><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/tanie-leki.html" class="a_text"><strong>tanie leki</strong></a> <br />Jeœli macie w swojej rodzinie seniorów czyli osoby po szeœædziesi¹tce...</td>	<td class="td_c td_b">0</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/mare1k/">mare1k</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/mare1k/">mare1k</a><br />2022-03-30 22:36</td></tr><tr class="tr_bg1"><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/nutridrinki.html" class="a_text"><strong>nutridrinki</strong></a> <br />Kupowa³ ktoœ z was nutridrinki dla bliskiej osoby? W DOZie znalaz³am...</td>	<td class="td_c td_b">2</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/majaka/">majaka</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Astri/">Astri</a><br />2022-03-23 23:15</td></tr><tr><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/dezynfekcja-telefonu.html" class="a_text"><strong>dezynfekcja telefonu</strong></a> <br />Dzieñ dobry, czy uwa¿aj¹ pañstwo, ¿e warto zainwestowaæ w urz¹dzenie do...</td>	<td class="td_c td_b">4</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/lenamagda/">lenamagda</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Lilcia/">Lilcia</a><br />2022-03-02 08:56</td></tr><tr class="tr_bg1"><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/masturbacja-nieswiadoma.html" class="a_text"><strong>Masturbacja (nie)œwiadoma?</strong></a> <br />Witam wszystkich.
+Mam takie zapytanie, czy jest to mo¿liwe, ¿eby moja ¿ona...</td>	<td class="td_c td_b">0</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Obas/">Obas</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Obas/">Obas</a><br />2021-05-03 07:58</td></tr><tr><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/urzadzenie-do-dezynfekcji-uv.html" class="a_text"><strong>urz¹dzenie do dezynfekcji uv</strong></a> <br />Hej! Zastanawiam siê nad zakupem urz¹dzenia do dezynfekcji uv phone soap......</td>	<td class="td_c td_b">3</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/alka3354/">alka3354</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/superdaria/">superdaria</a><br />2021-03-13 19:20</td></tr><tr class="tr_bg1"><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/udar-i-obrzek-mozgu.html" class="a_text"><strong>Udar i obrzêk mózgu</strong></a> <br />Witam
+
+Chcia³bym siê zapytaæ w sprawie mojej dziewczyny (w tej chwili ma...</td>	<td class="td_c td_b">0</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Robert20wr/">Robert20wr</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Robert20wr/">Robert20wr</a><br />2021-02-17 20:35</td></tr><tr><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/problem-w-lozku-plus-telefon.html" class="a_text"><strong>Problem w LOZKU plus TELEFON!</strong></a> <br />Witam!Od 2 lat jestem w zwiazku z facetetem.Roznica wiekowa miedzy nami to 10...</td>	<td class="td_c td_b">0</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/malaMi88/">malaMi88</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/malaMi88/">malaMi88</a><br />2020-11-16 09:57</td></tr><tr class="tr_bg1"><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/rozpoznanie-ciazy-przez-usg.html" class="a_text"><strong>Rozpoznanie ci¹¿y przez USG</strong></a> <br />Mam takie pytanie. Z powodu wieku -po 50-tce- nie miesi¹czkujê od kilku...</td>	<td class="td_c td_b">0</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Adalala/">Adalala</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Adalala/">Adalala</a><br />2020-11-07 01:05</td></tr><tr><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/brodawki-1490043201.html" class="a_text"><strong>brodawki</strong></a> <br />co mo¿na stosowaæ jak brodawki s¹ suche, ³uszcz¹ siê? jestem dziewic¹ i...</td>	<td class="td_c td_b">3</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/cisowianka21/">cisowianka21</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/okonska/">okonska</a><br />2020-09-21 04:23</td></tr><tr class="tr_bg1"><td class="td_post_tytul" style="width:480px;">	<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/dziwne-objawy-1532131264.html" class="a_text"><strong>Dziwne objawy.</strong></a> <br />Wa¿ne informacje:
+Wiek 15
+Dzieje siê tak od Miesi¹ca.
+
+Od pewnego czasu...</td>	<td class="td_c td_b">1</td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Zizi324/">Zizi324</a></td>	<td class="td_c"><a href="http://www.ilekarze.pl/user/Madzia123321/">Madzia123321</a><br />2020-08-04 11:14</td></tr><tr><td colspan="4">
+
+
+ <div style="float:left; margin:15px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-7726363216332302";
+// 728x90, utworzono 11-02-09
+google_ad_slot = "4239841074";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+</td></tr>
+</table>
+
+
+
+
+<div class="paginacja_out"><div class="paginacja"><div class="pagination"><span class="disabled">&#171; <strong>Poprzednie </strong></span><span class="current">1</span><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/2/">2</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/3/">3</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/4/">4</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/5/">5</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/6/">6</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/7/">7</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/8/">8</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/9/">9</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/10/">10</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/11/">11</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/12/">12</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/13/">13</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/14/">14</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/15/">15</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/16/">16</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/17/">17</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/18/">18</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/19/">19</a>...<a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/40/">40</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/41/">41</a><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/2/" class="next"><strong> Nastêpne</strong> &#187;</a></div>
+</div></div><br style="clear:both" /><div class="h1_forum"><a href="http://www.ilekarze.pl/forum/Fora-tematyczne/Zdrowie-kobiety/forum_nowy_temat.html" class="a_zaproponuj" rel="nofollow"><strong>» Nowy temat</strong></a><h1>Fora tematyczne » Zdrowie kobiety (2412)</h1></div>
+
+
+
+
+</div>
+</div>
+</div>
+</div>
+<div id="pre_foot">
+<table border="0" align="center" style="width:1000px;" cellpadding="4">
+  <tr>
+    <td style="width:200px; text-align:right; font-weight:bold;">W serwisie:</td>
+    <td style="text-align:left; padding:0 0 0 15px;"><a href="http://www.ogloszenia.ilekarze.pl/" title="Og³oszenia lekarskie - leki, sprzêt, kupiê, sprzedam">Og³oszenia medyczne</a>  |   <a href="http://www.ilekarze.pl/porady/" title="Porady lekarskie online">Porady medyczne</a>   |   <a href="http://www.ilekarze.pl/forum/" title="forum lekarskie">Forum medyczne</a></td>
+  </tr>
+  <tr>
+    <td style="width:200px; text-align:right; font-weight:bold;">Placówki zdrowia:</td>
+    <td style="text-align:left; padding:0 0 0 15px;"><a href="http://www.warszawa.ilekarze.pl/" title="Gabinet stomatologiczny, ginekologiczny Warszawa, Dentysta, Ginekolog, Laryngolog">Warszawa</a> | <a href="http://www.krakow.ilekarze.pl/" title="Gabinet stomatologiczny Kraków, Gabinet ginekologiczny Kraków, Dentysta, Ginekolog, Laryngolog">Kraków</a> | <a href="http://www.wroclaw.ilekarze.pl/" title="Gabinet stomatologiczny Wroc³aw, Gabinet ginekologiczny Wroc³aw, Dentysta, Ginekolog, Laryngolog">Wroc³aw</a> | <a href="http://www.poznan.ilekarze.pl/" title="Gabinet stomatologiczny Poznañ, Gabinet ginekologiczny Poznañ, Dentysta, Ginekolog, Laryngolog">Poznañ</a> | <a href="http://www.bialystok.ilekarze.pl/" title="Gabinet stomatologiczny Bia³ystok, ginekologiczny Bia³ystok, Dentysta, Ginekolog, Laryngolog">Bia³ystok</a> | <a href="http://www.lodz.ilekarze.pl/" title="Gabinet stomatologiczny £ódŸ, Gabinet ginekologiczny £ódŸ, Dentysta, Ginekolog, Laryngolog">£ódŸ</a> | <a href="http://www.katowice.ilekarze.pl/" title="Gabinet stomatologiczny, ginekologiczny Katowice, Dentysta, Ginekolog, Laryngolog">Katowice</a> | <a href="http://www.gdansk.ilekarze.pl/" title="Gabinet stomatologiczny, ginekologiczny Gdañsk, Gdynia, Sopot, Dentysta, Ginekolog, Laryngolog">Gdañsk</a> | <a href="http://www.szczecin.ilekarze.pl/" title="Gabinet stomatologiczny, ginekologiczny Szczecin, Dentysta, Ginekolog, Laryngolog">Szczecin</a></td>
+  </tr>
+  <tr>
+    <td style="width:200px; text-align:right; font-weight:bold;">iLekarze.pl:</td>
+    <td style="text-align:left; padding:0 0 0 15px;"><a href="http://www.ilekarze.pl/info/komunikaty.html">Komunikaty</a>   |   <a href="http://www.ilekarze.pl/info/reklama.html">Reklama w serwisie</a>   |   <a href="http://www.ilekarze.pl/info/zostan_redaktorem.html">Zostañ redaktorem</a>   |   <a href="http://www.ilekarze.pl/info/patronat_medialny.html">Patronat medialny</a>   |   <a href="http://www.ilekarze.pl/info/wspolpraca.html">Wspó³praca</a>   |   <a href="http://www.ilekarze.pl/info/dla_prasy.html">Dla prasy i mediów</a>   |   <a href="mailto:redakcja@ilekarze.pl">Napisz do nas</a></td>
+  </tr>
+    <tr>
+    <td style="width:200px; text-align:right; font-weight:bold; vertical-align:top;">Nasze fora:</td>
+    <td style="text-align:left; padding:0 0 0 15px; margin:10px 0 0 0; line-height:18px;">
+    	<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Lekarz-Rodzinny/" title="Lekarz rodzinny Forum">Lekarz rodzinny</a>  |   
+    	<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Alergolog/" title="Alergolog Forum">Alergolog Forum</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Dermatolog/" title="Dermatolog Forum">Dermatolog Forum</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Dietetyk/" title="Dietetyk Forum">Dietetyk Forum</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Ginekolog/" title="Ginekolog Forum">Ginekolog Forum</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Laryngolog/" title="Laryngolog Forum ">Laryngolog Forum</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Neurolog/" title="Neurolog Forum ">Neurolog Forum</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Psychiatra/" title="Psychiatra Forum ">Psychiatra Forum</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Psycholog/" title="Psycholog Forum ">Psycholog Forum</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Seksuolog/" title="Seksuolog Forum ">Seksuolog Forum</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Stomatolog/" title="Stomatolog Forum ">Forum Stomatolog</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Urolog/" title="Urolog Forum ">Forum Urolog</a>  |   
+			<a href="http://www.ilekarze.pl/forum/Lekarze-i-specjalisci/Okulista/" title="Okulista Forum ">Forum Okulista</a>  
+    	</td>
+  </tr>
+</table>
+<p>Treœci prezentowane w serwisie iLekarze.pl maj¹ jedynie charakter edukacyjny i w ¿adnym wypadku nie mog¹ zast¹piæ wizyty u lekarza.</p>
+<p>&copy; Copyright by iLekarze.pl, 2007-2023</p>
+</div>
+
+
+
+
+
+
+    <div class="slide-out-div">
+        <a class="handle" href="http://www.ilekarze.pl">Content</a>
+        
+<div style="height:300px"> 
+	
+	
+	
+	
+	<script src="http://connect.facebook.net/pl_PL/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Portal-iLekarzepl/10150129645885128" width="200" show_faces="true" border_color="" stream="false" header="true"></fb:like-box>
+  
+<div style="font-size:8px; padding-left:10px"></div>        
+
+
+
+      
+
+
+
+
+
+   </div>   
+        
+    </div>
+    
+    
+  		<style type="text/css">
+						#banner_right_margin{top:240px;right:-210px;position:absolute;z-index:1;width:200px;height:600px}
+		</style>
+		<script type="text/javascript">
+						$(function(){var offset=$("#banner_right_margin").offset();var topPadding=180;$(window).scroll(function(){if($(window).scrollTop()>offset.top){$("#banner_right_margin").stop().animate({marginTop:$(window).scrollTop()-offset.top+topPadding});}else{$("#banner_right_margin").stop().animate({marginTop:0});};});});
+		</script>
+		<div style="
+		
+		
+		
+		width:1000px;  text-align:left; margin:0 auto;
+		 position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+		
+		
+		
+		"></div>    
+<script src="http://www.ilekarze.pl/cookieinfo.js"></script></body>
+</html>
+<!-- (C) stat24 / ilekarze -->
+<script type="text/javascript">
+<!--
+document.writeln('<'+'scr'+'ipt type="text/javascript" src="http://pl4.hit.stat24.com/_'+(new Date()).getTime()+'/script.js?id=nLtLmwfdvO25vy46V2YMlMdv7MPwsJBz0.UZ4JFcQs..B7/l=11"></'+'scr'+'ipt>');
+//-->
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43822526-1', 'ilekarze.pl');
+  ga('send', 'pageview');
+
+</script>
