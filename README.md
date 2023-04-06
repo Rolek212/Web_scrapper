@@ -1,3 +1,3 @@
-# Web_scrapper
+# Web_scraper
 
-Srapper that scrapes "http://www.ilekarze.pl/forum/" for project on studies.
+Scraper that scrapes "http://www.ilekarze.pl/forum/" for project on studies.
